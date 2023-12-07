@@ -2,6 +2,7 @@
 
 Sou iniciante na programação e aqui compartilho pequenos projetos para mostrar minha evolução.
 
+Tel: +55 (62) 9 99501-7529
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/marcos1.py/)
